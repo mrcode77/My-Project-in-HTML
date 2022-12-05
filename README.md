@@ -7,6 +7,7 @@ This list of repositories aims to provide lessons and enable individuals to cont
 - <b>Mr Code Repo</b>
   - [Custom-List-Counter](#contents)
   - [Simple-Responsive-Navbar](#contents)
+  - [Palindrome-Checker](#contents)
 
 ## Contributors
 
