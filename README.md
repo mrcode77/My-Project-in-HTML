@@ -5,11 +5,11 @@ This list of repositories aims to provide lessons and enable individuals to cont
 ## Contents
 
 - <b>Mr Code Repo</b>
-  - [Custom-List-Counter](#contents)
-  - [Simple-Responsive-Navbar](#contents)
-  - [Palindrome-Checker](#contents)
-  - [Fetch-Data-API](#contents)
-  - [Word-Count](#contents)
+  - [Custom-List-Counter](https://hasbialwi.github.io/Custom-List-Counter/)
+  - [Simple-Responsive-Navbar](https://hasbialwi.github.io/Simple-Responsive-Navbar)
+  - [Palindrome-Checker](https://hasbialwi.github.io/Palindrome-Checker)
+  - [Fetch-Data-API](https://hasbialwi.github.io/Fetch-Data-Api)
+  - [Word-Count](https://hasbialwi.github.io/Word-Count)
 
 ## Contributors
 
