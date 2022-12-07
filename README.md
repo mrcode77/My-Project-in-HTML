@@ -9,6 +9,7 @@ This list of repositories aims to provide lessons and enable individuals to cont
   - [Simple-Responsive-Navbar](#contents)
   - [Palindrome-Checker](#contents)
   - [Fetch-Data-API](#contents)
+  - [Word-Count](#contents)
 
 ## Contributors
 
